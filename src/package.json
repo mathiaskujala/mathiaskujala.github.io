@@ -1,0 +1,36 @@
+{
+  "name": "tweet-kit",
+  "version": "1.0.0",
+  "description": "this *simple* node.js script allows anyone to increase/decrease followers, likes and retweets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxxarmino/twitter-exploit.git"
+  },
+  "keywords": [
+    "exploit",
+    "vulnerability",
+    "twitter",
+    "likes",
+    "retweets",
+    "bot",
+    "increase",
+    "decrease"
+  ],
+  "author": "@maxxarmino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxxarmino/twitter-exploit/issues"
+  },
+  "homepage": "https://github.com/maxxarmino/twitter-exploit#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "node-gyp": "^3.6.2",
+    "request": "^2.83.0",
+    "sleep": "^5.1.1",
+    "xhr-request": "^1.0.1"
+  }
+}
